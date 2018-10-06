@@ -1,0 +1,54 @@
+Date 20181003-1504
+             precision    recall  f1-score   support
+
+  not Deals       1.00      1.00      1.00      4389
+      Deals       0.98      0.98      0.98       712
+
+avg / total       0.99      0.99      0.99      5101
+
+
+Date 20181003-1507
+             precision    recall  f1-score   support
+
+  not Deals       1.00      1.00      1.00      4389
+      Deals       0.98      0.98      0.98       712
+
+avg / total       0.99      0.99      0.99      5101
+
+
+Date 20181003-1508
+             precision    recall  f1-score   support
+
+  not Deals       1.00      1.00      1.00      4389
+      Deals       0.98      0.98      0.98       712
+
+avg / total       0.99      0.99      0.99      5101
+
+
+Date 20181003-1536
+             precision    recall  f1-score   support
+
+  not Deals       1.00      1.00      1.00      4389
+      Deals       0.98      0.98      0.98       712
+
+avg / total       0.99      0.99      0.99      5101
+
+
+Date 20181003-1543
+             precision    recall  f1-score   support
+
+  not Deals       1.00      1.00      1.00      4381
+      Deals       0.99      0.99      0.99       553
+
+avg / total       1.00      1.00      1.00      4934
+
+
+Date 20181006-1534
+             precision    recall  f1-score   support
+
+  not Deals       0.98      0.98      0.98     30317
+      Deals       0.94      0.93      0.94     23160
+
+avg / total       0.95      0.95      0.95     84484
+
+
